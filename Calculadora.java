@@ -17,11 +17,11 @@ public class Calculadora {
             if (b != 0) {
                 r = a / b;
             } else {
-                System.out.println("Erro: divisão por zero, operação irregular");
+                System.out.println("Erro: divisao por zero, operação irregular");
                 r = 0;
             }
         } else {
-            System.out.println("Operação inválida");
+            System.out.println("Operacao inválida");
             r = 0;
         }
 
